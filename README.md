@@ -2,8 +2,8 @@
 Euler ve Heun Yöntemlerinin Karşılaştırılması
 
 ##  Proje Tanımı
-Bu projede, bir rezervuarın su seviyesinin zamana bağlı değişimi,sayısal analiz yöntemleri kullanılarak modellenmiştir.
-Modelin çözümünde İleri Euler ve Geliştirilmiş Euler (Heun) yöntemlerikullanılmış ve elde edilen sonuçlar doğruluk, kararlılık ve hata davranışıaçısından karşılaştırılmıştır.
+Bu projede, bir rezervuarın su seviyesinin zamana bağlı değişimi,sayısal analiz yöntemleri kullanılarak modellenmiştir. Modelin çözümünde İleri Euler ve Geliştirilmiş Euler (Heun) yöntemleri kullanılmış ve elde edilen sonuçlar doğruluk, kararlılık ve hata davranışı açısından karşılaştırılmıştır.
+
 Çalışmanın amacı, farklı sayısal yöntemlerin aynı problem üzerindekidavranışlarını inceleyerek uygun yöntem seçiminin önemini ortaya koymaktır.
 
 ---
