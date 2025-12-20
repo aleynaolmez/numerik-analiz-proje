@@ -1,1 +1,1 @@
-# n-merik-analiz-proje
+# numerik-analiz-proje
